@@ -1,0 +1,54 @@
+COORDINATES / ADDRESSES
+
+149.31.196.8
+Longitude + Latitude 
+40.739668 ; -74.000765
+Address 
+226-228 W 15th St, New York, NY 10011
+
+38.122.9.25
+Longitude + Latitude
+ 40.713192 ;  -74.006065
+Address
+City Hall Pk Path, New York, NY 10007
+
+154.54.42.70
+Longitude + Latitude
+51.50853 ;  -0.12574
+Address
+GV5F+CP6 London, United Kingdom (London, UK)
+
+202.97.71.25
+Longitude + Latitude
+22.545673 ; 114.06811
+Address
+China, Futian District, 武警支队站台华润万家彩田店
+
+202.97.85.50
+Longitude + Latitude
+31.224332 ; 121.468951
+Address
+Yan An Gao Jia Lu, Jing An Qu, Shang Hai Shi, China, 200003
+
+202.97.50.177
+Longitude + Latitude
+41.85583 ; 123.92333
+Address
+VW4F+88M, Nanyang Rd, Xinfu District, Fushun, Fushun, Liaoning, China, 113012
+
+PLACES TRACED
+
+NYC, NY
+song: empire state of mind
+
+LONDON, UK
+movie: 28 days later
+
+FUTIAN DISTRICT, SHENZHEN, CHINA
+historical fact: originally inhabited by a mixture of tribal groups known to the chinese as the baiyue ("hundred yue"), futian and the rest of guangdong province was always a frontier region.
+
+SHANGHAI, CHINA
+city flower: magnolia denudata / yulan magnolia
+
+XINFU DISTRICT, FUSHUN, CHINA
+fun fact: one of the world's largest open-pit coal mines, the West Open Mine, is located south of the city. 
