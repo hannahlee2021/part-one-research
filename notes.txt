@@ -43,18 +43,51 @@ PLACES TRACED
 
 NYC, NY
 song: empire state of mind
+movie: american psycho
+museums to visit
+1. moma
+2. met
+3. american natural history museum
+4. cooper-hewitt
 
 LONDON, UK
 movie: 28 days later
+song: london boy - taylor swift
+museums to visit
+1. british museum
+2. tate modern
+3. the national gallery
+4. museum of london
 
 FUTIAN DISTRICT, SHENZHEN, CHINA
 historical fact: originally inhabited by a mixture of tribal groups known to the chinese as the baiyue ("hundred yue"), futian and the rest of guangdong province was always a frontier region.
+song: shenzhen - subway surfers
+movie: nice view 
+museums to visit
+1. museum of contemporary art & planning exhibit
+2. shenzhen museum
+3. yachang art gallery
+4. shenzhen children's palace
 
 SHANGHAI, CHINA
 city flower: magnolia denudata / yulan magnolia
+song: shanghai romance - orange caramel
+movie: suzhou river
+museums to visit
+1. shanghai museum
+2. shanghai science and technology museum
+3. shanghai museum of glass
+4. china art museum
 
 XINFU DISTRICT, FUSHUN, CHINA
 fun fact: one of the world's largest open-pit coal mines, the West Open Mine, is located south of the city. 
+song: 搖籃曲 (lullaby)
+movie: happy times
+museums to visit
+1. fushun pingdingshan massacre memorial hall
+2. lei feng memorial hall
+3. fushun coal mine museum
+4. fushunshi chengshi guihua zhanshiting
 
 IMAGES
 
